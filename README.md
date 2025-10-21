@@ -39,7 +39,5 @@ A ideia é mostrar a **progressão real** e natural de quem está crescendo na �
 ---
 
 ## 📫 Contato
-Caso queira trocar uma ideia sobre os códigos, estudos ou projetos:  
-Caso queira trocar uma ideia sobre os códigos, estudos ou projetos:  
 📧 **samile.r.freitas@gmail.com**  
 🔗 [**LinkedIn – Samile Freitas**](https://www.linkedin.com/in/samile-freitas-80461732b)
